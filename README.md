@@ -1,6 +1,24 @@
+
+*ScreenShots*
+
+![image](https://github.com/AidanKingC/ReactShopFrontEndSample/assets/36457010/7703fa9a-b876-40c6-9fcf-cd659c037598)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
